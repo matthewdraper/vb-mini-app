@@ -1,0 +1,11 @@
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\bin\Debug\Lab7-600-Draper-Matthew.exe.config
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\bin\Debug\Lab7-600-Draper-Matthew.exe
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\bin\Debug\Lab7-600-Draper-Matthew.pdb
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\bin\Debug\Lab7-600-Draper-Matthew.xml
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\obj\Debug\Lab7_600_Draper_Matthew.Resources.resources
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\obj\Debug\Lab7_600_Draper_Matthew.SplashScreen1.resources
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\obj\Debug\Lab7-600-Draper-Matthew.vbproj.GenerateResource.Cache
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\obj\Debug\Lab7-600-Draper-Matthew.exe
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\obj\Debug\Lab7-600-Draper-Matthew.xml
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\obj\Debug\Lab7-600-Draper-Matthew.pdb
+c:\users\matt_\documents\visual studio 2015\Projects\Lab7-600-Draper-Matthew\Lab7-600-Draper-Matthew\obj\Debug\Lab7_600_Draper_Matthew.Lab7.resources
